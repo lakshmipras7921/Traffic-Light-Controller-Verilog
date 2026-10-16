@@ -38,6 +38,6 @@ Open it in GTKWave if available.
 ## Limitations
 This is an educational RTL simulation project. It has not been demonstrated on physical FPGA hardware by the author unless separate hardware implementation and testing are performed. Before submission, run the simulation and include genuine output logs or waveform screenshots.
 
-## ## Simulation Link
+## Simulation Link
 
 [Click here to run the simulation](https://edaplayground.com/x/pPV6)
