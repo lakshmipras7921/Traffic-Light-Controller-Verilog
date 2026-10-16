@@ -41,3 +41,15 @@ This is an educational RTL simulation project. It has not been demonstrated on p
 ## Simulation Link
 
 [Click here to run the simulation](https://edaplayground.com/x/pPV6)
+
+## Simulation Results
+
+The traffic light controller was simulated successfully
+using EDA Playground with Icarus Verilog.
+
+The simulation verifies:
+- Normal RED, GREEN, and YELLOW light sequence.
+- Reset operation.
+- Emergency priority, which activates the RED light.
+
+The simulation output screenshot is included in this repository.
