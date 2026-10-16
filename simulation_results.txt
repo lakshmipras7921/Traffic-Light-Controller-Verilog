@@ -1,0 +1,4 @@
+Simulation results placeholder
+
+Run the testbench with a Verilog simulator and replace this file with the actual simulator console output.
+Do not claim that simulation passed until you have run it and checked the output/waveform.
